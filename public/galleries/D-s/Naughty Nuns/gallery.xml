@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<simpleviewerGallery maxImageWidth="480" maxImageHeight="600" textColor="0x999999" frameColor="0xffffff" frameWidth="10" stagePadding="40" thumbnailColumns="3" thumbnailRows="3" navPosition="left" title="Naughty Nuns" enableRightClickOpen="false" backgroundImagePath="" imagePath="" thumbPath="">
+<image>
+	<filename>Sister Andrew 1.jpg</filename>
+	<caption>Sister Andrew 1.jpg</caption>
+</image>
+<image>
+	<filename>Sister Andrew 2.jpg</filename>
+	<caption>Sister Andrew 2.jpg</caption>
+</image>
+<image>
+	<filename>Sister Andrew 3.jpg</filename>
+	<caption>Sister Andrew 3.jpg</caption>
+</image>
+<image>
+	<filename>Sister Andrew 4.jpg</filename>
+	<caption>Sister Andrew 4.jpg</caption>
+</image>
+<image>
+	<filename>Sister Ash 1.jpg</filename>
+	<caption>Sister Ash 1.jpg</caption>
+</image>
+<image>
+	<filename>Sister Ash 2.jpg</filename>
+	<caption>Sister Ash 2.jpg</caption>
+</image>
+<image>
+	<filename>Sister Ash 3.jpg</filename>
+	<caption>Sister Ash 3.jpg</caption>
+</image>
+<image>
+	<filename>Sister Ash 4.jpg</filename>
+	<caption>Sister Ash 4.jpg</caption>
+</image>
+<image>
+	<filename>Sister Ash 5.jpg</filename>
+	<caption>Sister Ash 5.jpg</caption>
+</image>
+<image>
+	<filename>Sister Sacastic 1.jpg</filename>
+	<caption>Sister Sacastic 1.jpg</caption>
+</image>
+<image>
+	<filename>Sister Sarcastic 10.jpg</filename>
+	<caption>Sister Sarcastic 10.jpg</caption>
+</image>
+<image>
+	<filename>Sister Sarcastic 2.jpg</filename>
+	<caption>Sister Sarcastic 2.jpg</caption>
+</image>
+<image>
+	<filename>Sister Sarcastic 3.jpg</filename>
+	<caption>Sister Sarcastic 3.jpg</caption>
+</image>
+<image>
+	<filename>Sister Sarcastic 4.jpg</filename>
+	<caption>Sister Sarcastic 4.jpg</caption>
+</image>
+<image>
+	<filename>Sister Sarcastic 5.jpg</filename>
+	<caption>Sister Sarcastic 5.jpg</caption>
+</image>
+<image>
+	<filename>Sister Sarcastic 6.jpg</filename>
+	<caption>Sister Sarcastic 6.jpg</caption>
+</image>
+<image>
+	<filename>Sister Sarcastic 7.jpg</filename>
+	<caption>Sister Sarcastic 7.jpg</caption>
+</image>
+<image>
+	<filename>Sister Sarcastic 8.jpg</filename>
+	<caption>Sister Sarcastic 8.jpg</caption>
+</image>
+<image>
+	<filename>Sister Sarcastic 9.jpg</filename>
+	<caption>Sister Sarcastic 9.jpg</caption>
+</image>
+<image>
+	<filename>Sister Snow 1.jpg</filename>
+	<caption>Sister Snow 1.jpg</caption>
+</image>
+<image>
+	<filename>Sister Snow 2.jpg</filename>
+	<caption>Sister Snow 2.jpg</caption>
+</image>
+<image>
+	<filename>Sister Snow 3.jpg</filename>
+	<caption>Sister Snow 3.jpg</caption>
+</image>
+</simpleviewerGallery>

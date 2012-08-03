@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<simpleviewerGallery maxImageWidth="480" maxImageHeight="600" textColor="0x999999" frameColor="0xffffff" frameWidth="10" stagePadding="40" thumbnailColumns="3" thumbnailRows="3" navPosition="left" title="WIB Project" enableRightClickOpen="false" backgroundImagePath="" imagePath="" thumbPath="">
+<image>
+	<filename>Amanda.jpg</filename>
+	<caption>Amanda.jpg</caption>
+</image>
+<image>
+	<filename>Ann Marie.jpg</filename>
+	<caption>Ann Marie.jpg</caption>
+</image>
+<image>
+	<filename>Bridgette.jpg</filename>
+	<caption>Bridgette.jpg</caption>
+</image>
+<image>
+	<filename>Catherine.jpg</filename>
+	<caption>Catherine.jpg</caption>
+</image>
+<image>
+	<filename>Celeste.jpg</filename>
+	<caption>Celeste.jpg</caption>
+</image>
+<image>
+	<filename>Elizabeth 2.jpg</filename>
+	<caption>Elizabeth 2.jpg</caption>
+</image>
+<image>
+	<filename>Elizabeth.jpg</filename>
+	<caption>Elizabeth.jpg</caption>
+</image>
+<image>
+	<filename>Erica.jpg</filename>
+	<caption>Erica.jpg</caption>
+</image>
+<image>
+	<filename>Gillian.jpg</filename>
+	<caption>Gillian.jpg</caption>
+</image>
+<image>
+	<filename>Kat.jpg</filename>
+	<caption>Kat.jpg</caption>
+</image>
+<image>
+	<filename>Koko.jpg</filename>
+	<caption>Koko.jpg</caption>
+</image>
+<image>
+	<filename>Krista.jpg</filename>
+	<caption>Krista.jpg</caption>
+</image>
+<image>
+	<filename>Kristin.jpg</filename>
+	<caption>Kristin.jpg</caption>
+</image>
+<image>
+	<filename>Lapis.jpg</filename>
+	<caption>Lapis.jpg</caption>
+</image>
+<image>
+	<filename>Paige.jpg</filename>
+	<caption>Paige.jpg</caption>
+</image>
+<image>
+	<filename>Ripley.jpg</filename>
+	<caption>Ripley.jpg</caption>
+</image>
+<image>
+	<filename>Sabrina.jpg</filename>
+	<caption>Sabrina.jpg</caption>
+</image>
+<image>
+	<filename>Tank.jpg</filename>
+	<caption>Tank.jpg</caption>
+</image>
+<image>
+	<filename>Trina.jpg</filename>
+	<caption>Trina.jpg</caption>
+</image>
+<image>
+	<filename>Valerie.jpg</filename>
+	<caption>Valerie.jpg</caption>
+</image>
+<image>
+	<filename>Veronika.jpg</filename>
+	<caption>Veronika.jpg</caption>
+</image>
+<image>
+	<filename>Veronique.jpg</filename>
+	<caption>Veronique.jpg</caption>
+</image>
+<image>
+	<filename>Wendy.jpg</filename>
+	<caption>Wendy.jpg</caption>
+</image>
+</simpleviewerGallery>

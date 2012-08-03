@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<simpleviewerGallery maxImageWidth="480" maxImageHeight="600" textColor="0x999999" frameColor="0xffffff" frameWidth="10" stagePadding="40" thumbnailColumns="3" thumbnailRows="3" navPosition="left" title="Pony Girls" enableRightClickOpen="false" backgroundImagePath="" imagePath="" thumbPath="">
+<image>
+	<filename>C7.jpg</filename>
+	<caption>C7.jpg</caption>
+</image>
+<image>
+	<filename>C9.jpg</filename>
+	<caption>C9.jpg</caption>
+</image>
+<image>
+	<filename>Equus.jpg</filename>
+	<caption>Equus.jpg</caption>
+</image>
+<image>
+	<filename>PG-2.jpg</filename>
+	<caption>PG-2.jpg</caption>
+</image>
+<image>
+	<filename>PG-8.jpg</filename>
+	<caption>PG-8.jpg</caption>
+</image>
+<image>
+	<filename>PG5.jpg</filename>
+	<caption>PG5.jpg</caption>
+</image>
+<image>
+	<filename>Pony Girls3.jpg</filename>
+	<caption>Pony Girls3.jpg</caption>
+</image>
+<image>
+	<filename>PP2.jpg</filename>
+	<caption>PP2.jpg</caption>
+</image>
+<image>
+	<filename>PT5.jpg</filename>
+	<caption>PT5.jpg</caption>
+</image>
+</simpleviewerGallery>

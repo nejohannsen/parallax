@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<simpleviewerGallery maxImageWidth="480" maxImageHeight="600" textColor="0x999999" frameColor="0xffffff" frameWidth="10" stagePadding="40" thumbnailColumns="3" thumbnailRows="3" navPosition="left" title="Heels" enableRightClickOpen="false" backgroundImagePath="" imagePath="" thumbPath="">
+<image>
+	<filename>XtremeHeels.jpg</filename>
+	<caption>XtremeHeels.jpg</caption>
+</image>
+<image>
+	<filename>Xxxtreme.jpg</filename>
+	<caption>Xxxtreme.jpg</caption>
+</image>
+</simpleviewerGallery>

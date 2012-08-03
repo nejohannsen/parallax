@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<simpleviewerGallery maxImageWidth="480" maxImageHeight="600" textColor="0x999999" frameColor="0xffffff" frameWidth="10" stagePadding="40" thumbnailColumns="3" thumbnailRows="3" navPosition="left" title="Miscellaneous" enableRightClickOpen="false" backgroundImagePath="" imagePath="" thumbPath="">
+<image>
+	<filename>BarleyThere.jpg</filename>
+	<caption>BarleyThere.jpg</caption>
+</image>
+<image>
+	<filename>DarkAngel.jpg</filename>
+	<caption>DarkAngel.jpg</caption>
+</image>
+<image>
+	<filename>DontEatheDaisy.jpg</filename>
+	<caption>DontEatheDaisy.jpg</caption>
+</image>
+<image>
+	<filename>FireElement.jpg</filename>
+	<caption>FireElement.jpg</caption>
+</image>
+<image>
+	<filename>HerBack.jpg</filename>
+	<caption>HerBack.jpg</caption>
+</image>
+<image>
+	<filename>Rapture.jpg</filename>
+	<caption>Rapture.jpg</caption>
+</image>
+</simpleviewerGallery>

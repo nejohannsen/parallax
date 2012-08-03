@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<simpleviewerGallery maxImageWidth="480" maxImageHeight="600" textColor="0x999999" frameColor="0xffffff" frameWidth="10" stagePadding="40" thumbnailColumns="3" thumbnailRows="3" navPosition="left" title="Objects" enableRightClickOpen="false" backgroundImagePath="" imagePath="" thumbPath="">
+<image>
+	<filename>Doe Boy.jpg</filename>
+	<caption>Doe Boy</caption>
+</image>
+<image>
+	<filename>Tapestry.jpg</filename>
+	<caption>Tapestry</caption>
+</image>
+
+<image>
+	<filename>Steel Dragon.jpg</filename>
+	<caption>Steel Dragon</caption>
+</image>
+<image>
+	<filename>Pottery.jpg</filename>
+	<caption>Pottery</caption>
+</image>
+<image>
+	<filename>Peg Leg Pirate.jpg</filename>
+	<caption>Peg Leg Pirate</caption>
+</image>
+<image>
+	<filename>Ancestor.jpg</filename>
+	<caption>Ancestor</caption>
+</image>
+<image>
+	<filename>Blade.jpg</filename>
+	<caption>Blade</caption>
+</image>
+<image>
+	<filename>Bucket.jpg</filename>
+	<caption>Bucket</caption>
+</image>
+<image>
+	<filename>Carnival.jpg</filename>
+	<caption>Carnival</caption>
+</image>
+<image>
+	<filename>Chac Mool.jpg</filename>
+	<caption>Chac Mool</caption>
+</image>
+<image>
+	<filename>Chiles.jpg</filename>
+	<caption>Chiles</caption>
+</image>
+<image>
+	<filename>Cross.jpg</filename>
+	<caption>Cross</caption>
+</image>
+<image>
+	<filename>DeathMask.jpg</filename>
+	<caption>DeathMask</caption>
+</image>
+<image>
+	<filename>Dragon.jpg</filename>
+	<caption>Dragon</caption>
+</image>
+<image>
+	<filename>Elder.jpg</filename>
+	<caption>Elder</caption>
+</image>
+<image>
+	<filename>GardensofStone.jpg</filename>
+	<caption>Gardens of Stone</caption>
+</image>
+<image>
+	<filename>Gaudi.jpg</filename>
+	<caption>Gaudi</caption>
+</image>
+<image>
+	<filename>Goddess.jpg</filename>
+	<caption>Goddess</caption>
+</image>
+<image>
+	<filename>Guardian.jpg</filename>
+	<caption>Guardian</caption>
+</image>
+<image>
+	<filename>Hemingway's.jpg</filename>
+	<caption>Hemingway's</caption>
+</image>
+<image>
+	<filename>InuitMask.jpg</filename>
+	<caption>InuitMask</caption>
+</image>
+<image>
+	<filename>Jaguar.jpg</filename>
+	<caption>Jaguar</caption>
+</image>
+<image>
+	<filename>Lizard.jpg</filename>
+	<caption>Lizard</caption>
+</image>
+<image>
+	<filename>Manekin Pis.jpg</filename>
+	<caption>Manekin Pis</caption>
+</image>
+<image>
+	<filename>Mask.jpg</filename>
+	<caption>Mask</caption>
+</image>
+<image>
+	<filename>Mayan.jpg</filename>
+	<caption>Mayan</caption>
+</image>
+<image>
+	<filename>Napoleon.jpg</filename>
+	<caption>Napoleon</caption>
+</image>
+<image>
+	<filename>Planter.jpg</filename>
+	<caption>Planter</caption>
+</image>
+<image>
+	<filename>Porsche 930.jpg</filename>
+	<caption>Porsche 930</caption>
+</image>
+<image>
+	<filename>Princess.jpg</filename>
+	<caption>Princess</caption>
+</image>
+<image>
+	<filename>RacingTire.jpg</filename>
+	<caption>Racing Tire</caption>
+</image>
+<image>
+	<filename>Red Vase.jpg</filename>
+	<caption>Red Vase</caption>
+</image>
+<image>
+	<filename>Robe.jpg</filename>
+	<caption>Robe</caption>
+</image>
+<image>
+	<filename>SCUBAsaurus Cozumel.jpg</filename>
+	<caption>SCUBAsaurus Cozumel</caption>
+</image>
+<image>
+	<filename>Sentinnel.jpg</filename>
+	<caption>Sentinnel</caption>
+</image>
+<image>
+	<filename>Shaman.jpg</filename>
+	<caption>Shaman</caption>
+</image>
+<image>
+	<filename>Stone Face.jpg</filename>
+	<caption>Stone Face</caption>
+</image>
+<image>
+	<filename>T's Shoes.jpg</filename>
+	<caption>T's Shoes</caption>
+</image>
+</simpleviewerGallery>

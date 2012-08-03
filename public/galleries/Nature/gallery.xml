@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<simpleviewerGallery maxImageWidth="480" maxImageHeight="600" textColor="0x999999" frameColor="0xffffff" frameWidth="10" stagePadding="40" thumbnailColumns="3" thumbnailRows="3" navPosition="left" title="Nature" enableRightClickOpen="false" backgroundImagePath="" imagePath="" thumbPath="">
+<image>
+	<filename>Siberian Tiger.jpg</filename>
+	<caption>Siberian Tiger</caption>
+</image>
+<image>
+	<filename>Black Scorpion.jpg</filename>
+	<caption>Black Scorpion</caption>
+</image>
+
+<image>
+	<filename>Bud Wizer.jpg</filename>
+	<caption>Bud Wizer</caption>
+</image>
+<image>
+	<filename>Anolis Lizard.jpg</filename>
+	<caption>Anolis Lizard</caption>
+</image>
+<image>
+	<filename>Black Snake.jpg</filename>
+	<caption>Black Snake</caption>
+</image>
+<image>
+	<filename>Amazon Parrot.jpg</filename>
+	<caption>Amazon Parrot</caption>
+</image>
+<image>
+	<filename>Bald Eagle Alaska.jpg</filename>
+	<caption>Bald Eagle Alaska</caption>
+</image>
+<image>
+	<filename>DSCN0747.jpg</filename>
+	<caption>DSCN0747</caption>
+</image>
+<image>
+	<filename>Falcon.jpg</filename>
+	<caption>Falcon.</caption>
+</image>
+<image>
+	<filename>G10.jpg</filename>
+	<caption>G10</caption>
+</image>
+<image>
+	<filename>GeckoPower.jpg</filename>
+	<caption>GeckoPower</caption>
+</image>
+<image>
+	<filename>Gila-Monster.jpg</filename>
+	<caption>Gila-Monster</caption>
+</image>
+<image>
+	<filename>Heron 1.jpg</filename>
+	<caption>Heron 1</caption>
+</image>
+<image>
+	<filename>Killer Whale.jpg</filename>
+	<caption>Killer Whale</caption>
+</image>
+<image>
+	<filename>Macaw.jpg</filename>
+	<caption>Macaw</caption>
+</image>
+<image>
+	<filename>Owl.jpg</filename>
+	<caption>Owl</caption>
+</image>
+<image>
+	<filename>Pecker.jpg</filename>
+	<caption>Pecker</caption>
+</image>
+<image>
+	<filename>Red Tail.jpg</filename>
+	<caption>Red Tail</caption>
+</image>
+<image>
+	<filename>Spank.jpg</filename>
+	<caption>Spank</caption>
+</image>
+<image>
+	<filename>SwampLord.jpg</filename>
+	<caption>SwampLord</caption>
+</image>
+<image>
+	<filename>Tiger 2.jpg</filename>
+	<caption>Tiger 2</caption>
+</image>
+<image>
+	<filename>Tiger 3.jpg</filename>
+	<caption>Tiger 3</caption>
+</image>
+<image>
+	<filename>Tiger 4.jpg</filename>
+	<caption>Tiger 4.</caption>
+</image>
+<image>
+	<filename>Tiger.jpg</filename>
+	<caption>Tiger</caption>
+</image>
+</simpleviewerGallery>

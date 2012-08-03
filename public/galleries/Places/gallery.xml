@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<simpleviewerGallery maxImageWidth="480" maxImageHeight="600" textColor="0x999999" frameColor="0xffffff" frameWidth="10" stagePadding="40" thumbnailColumns="3" thumbnailRows="3" navPosition="left" title="Places" enableRightClickOpen="false" backgroundImagePath="" imagePath="" thumbPath="">
+<image>
+	<filename>Foster Avenue Beach.jpg</filename>
+	<caption>Foster Avenue Beach</caption>
+</image>
+<image>
+	<filename>Tour Eifel.jpg</filename>
+	<caption>Tour Eifel</caption>
+</image>
+<image>
+	<filename>Naperville 001.jpg</filename>
+	<caption>Naperville 001</caption>
+</image>
+<image>
+	<filename>Fort St. Louis - Marigot.jpg</filename>
+	<caption>Fort St. Louis - Marigot</caption>
+</image>
+<image>
+	<filename>French Flag over Fort St. Louis.jpg</filename>
+	<caption>French Flag over Fort St. Louis</caption>
+</image>
+<image>
+	<filename>Villajayosa.jpg</filename>
+	<caption>Villajayosa</caption>
+</image>
+<image>
+	<filename>Alaska.jpg</filename>
+	<caption>Alaska</caption>
+</image>
+<image>
+	<filename>Amsterdam.jpg</filename>
+	<caption>Amsterdam</caption>
+</image>
+<image>
+	<filename>Barcelona.jpg</filename>
+	<caption>Barcelona</caption>
+</image>
+<image>
+	<filename>Barnegat Bay, N.J.jpg</filename>
+	<caption>Barnegat Bay, N.J</caption>
+</image>
+<image>
+	<filename>Barnegat Light, N.J.jpg</filename>
+	<caption>Barnegat Light, N.J</caption>
+</image>
+<image>
+	<filename>Bonaire Paradise.jpg</filename>
+	<caption>Bonaire Paradise</caption>
+</image>
+<image>
+	<filename>Brussels.jpg</filename>
+	<caption>Brussels</caption>
+</image>
+<image>
+	<filename>Chicago Harbor.jpg</filename>
+	<caption>Chicago Harbor</caption>
+</image>
+<image>
+	<filename>Chicago Skyline.jpg</filename>
+	<caption>Chicago Skyline</caption>
+</image>
+<image>
+	<filename>Chichen Itza.jpg</filename>
+	<caption>Chichen Itza</caption>
+</image>
+<image>
+	<filename>City of the Dead.jpg</filename>
+	<caption>City of the Dead</caption>
+</image>
+<image>
+	<filename>Copper Mill Ruins, Virgin Gorda.jpg</filename>
+	<caption>Copper Mill Ruins, Virgin Gorda</caption>
+</image>
+<image>
+	<filename>Familia Sagrada.jpg</filename>
+	<caption>Familia Sagrada</caption>
+</image>
+<image>
+	<filename>Hawaii.jpg</filename>
+	<caption>Hawaii</caption>
+</image>
+<image>
+	<filename>Mendenhall Glacier, Juneau.jpg</filename>
+	<caption>Mendenhall Glacier, Juneau</caption>
+</image>
+<image>
+	<filename>Mineral Point.jpg</filename>
+	<caption>Mineral Point</caption>
+</image>
+<image>
+	<filename>Montezuma's Castle.jpg</filename>
+	<caption>Montezuma's Castle</caption>
+</image>
+<image>
+	<filename>Montserrat, Spain.jpg</filename>
+	<caption>Montserrat, Spain</caption>
+</image>
+<image>
+	<filename>Oregon Coast.jpg</filename>
+	<caption>Oregon Coast</caption>
+</image>
+<image>
+	<filename>Palais Luxembourg.jpg</filename>
+	<caption>Palais Luxembourg</caption>
+</image>
+<image>
+	<filename>Palais Royale Subway.jpg</filename>
+	<caption>Palais Royale Subway</caption>
+</image>
+<image>
+	<filename>Saigon.jpg</filename>
+	<caption>Saigon</caption>
+</image>
+<image>
+	<filename>Santa Fe Mission.jpg</filename>
+	<caption>Santa Fe Mission</caption>
+</image>
+<image>
+	<filename>Sedona.jpg</filename>
+	<caption>Sedona</caption>
+</image>
+<image>
+	<filename>Sidney Harbor.jpg</filename>
+	<caption>Sidney Harbor</caption>
+</image>
+<image>
+	<filename>Skulls Chichen Itza.jpg</filename>
+	<caption>Skulls Chichen Itza</caption>
+</image>
+<image>
+	<filename>St Thomas.jpg</filename>
+	<caption>St Thomas</caption>
+</image>
+<image>
+	<filename>Sunrise Oswego.jpg</filename>
+	<caption>Sunrise Oswego</caption>
+</image>
+<image>
+	<filename>Sunset Harbor Island, Bahamas.jpg</filename>
+	<caption>Sunset Harbor Island, Bahamas</caption>
+</image>
+<image>
+	<filename>Swamp.jpg</filename>
+	<caption>Swamp</caption>
+</image>
+<image>
+	<filename>The Barn.jpg</filename>
+	<caption>The Barn</caption>
+</image>
+<image>
+	<filename>The Boulders.jpg</filename>
+	<caption>The Boulders</caption>
+</image>
+<image>
+	<filename>Tour Eiffel.jpg</filename>
+	<caption>Tour Eiffel</caption>
+</image>
+<image>
+	<filename>Urban Decay.jpg</filename>
+	<caption>Urban Decay</caption>
+</image>
+<image>
+	<filename>Venice.jpg</filename>
+	<caption>Venice</caption>
+</image>
+<image>
+	<filename>Virgin Gorda.jpg</filename>
+	<caption>Virgin Gorda</caption>
+</image>
+<image>
+	<filename>White Mountain Reservation.jpg</filename>
+	<caption>White Mountain Reservation</caption>
+</image>
+<image>
+	<filename>Yucatan, Mexico.jpg</filename>
+	<caption>Yucatan, Mexico</caption>
+</image>
+</simpleviewerGallery>

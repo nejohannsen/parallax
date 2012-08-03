@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<simpleviewerGallery maxImageWidth="480" maxImageHeight="600" textColor="0x999999" frameColor="0xffffff" frameWidth="10" stagePadding="40" thumbnailColumns="3" thumbnailRows="3" navPosition="left" title="Miscellaneous" enableRightClickOpen="false" backgroundImagePath="" imagePath="" thumbPath="">
+<image>
+	<filename>0030664-R3-043-20.jpg</filename>
+	<caption>0030664-R3-043-20.jpg</caption>
+</image>
+<image>
+	<filename>0198529-R1-064-30A.jpg</filename>
+	<caption>0198529-R1-064-30A.jpg</caption>
+</image>
+<image>
+	<filename>Butch.jpg</filename>
+	<caption>Butch.jpg</caption>
+</image>
+<image>
+	<filename>ChainsThatBind.jpg</filename>
+	<caption>ChainsThatBind.jpg</caption>
+</image>
+<image>
+	<filename>Day of the Dead 002.jpg</filename>
+	<caption>Day of the Dead 002.jpg</caption>
+</image>
+<image>
+	<filename>EAT2.jpg</filename>
+	<caption>EAT2.jpg</caption>
+</image>
+<image>
+	<filename>Interrogation.jpg</filename>
+	<caption>Interrogation.jpg</caption>
+</image>
+<image>
+	<filename>LapisinHarness.jpg</filename>
+	<caption>LapisinHarness.jpg</caption>
+</image>
+<image>
+	<filename>Liz D-Art.jpg</filename>
+	<caption>Liz D-Art.jpg</caption>
+</image>
+<image>
+	<filename>MistressIsabel.jpg</filename>
+	<caption>MistressIsabel.jpg</caption>
+</image>
+<image>
+	<filename>Sarah 6.jpg</filename>
+	<caption>Sarah 6.jpg</caption>
+</image>
+<image>
+	<filename>Snuffed.jpg</filename>
+	<caption>Snuffed.jpg</caption>
+</image>
+<image>
+	<filename>Tongue.jpg</filename>
+	<caption>Tongue.jpg</caption>
+</image>
+<image>
+	<filename>VioletSnow.jpg</filename>
+	<caption>VioletSnow.jpg</caption>
+</image>
+<image>
+	<filename>Xena 126.jpg</filename>
+	<caption>Xena 126.jpg</caption>
+</image>
+<image>
+	<filename>Xena-Sarah 005.jpg</filename>
+	<caption>Xena-Sarah 005.jpg</caption>
+</image>
+</simpleviewerGallery>

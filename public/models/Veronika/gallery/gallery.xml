@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<simpleviewerGallery maxImageWidth="480" maxImageHeight="600" textColor="0x999999" frameColor="0xffffff" frameWidth="10" stagePadding="40" thumbnailColumns="3" thumbnailRows="3" navPosition="left" title="Veronika" enableRightClickOpen="false" backgroundImagePath="" imagePath="" thumbPath="">
+<image>
+	<filename>1.jpg</filename>
+	<caption>1.jpg</caption>
+</image>
+<image>
+	<filename>2.jpg</filename>
+	<caption>2.jpg</caption>
+</image>
+<image>
+	<filename>3.jpg</filename>
+	<caption>3.jpg</caption>
+</image>
+<image>
+	<filename>4.jpg</filename>
+	<caption>4.jpg</caption>
+</image>
+<image>
+	<filename>5.jpg</filename>
+	<caption>5.jpg</caption>
+</image>
+<image>
+	<filename>6.jpg</filename>
+	<caption>6.jpg</caption>
+</image>
+<image>
+	<filename>7.jpg</filename>
+	<caption>7.jpg</caption>
+</image>
+<image>
+	<filename>8.jpg</filename>
+	<caption>8.jpg</caption>
+</image>
+<image>
+	<filename>9.jpg</filename>
+	<caption>9.jpg</caption>
+</image>
+<image>
+	<filename>10.jpg</filename>
+	<caption>10.jpg</caption>
+</image>
+<image>
+	<filename>11.jpg</filename>
+	<caption>11.jpg</caption>
+</image>
+<image>
+	<filename>12.jpg</filename>
+	<caption>12.jpg</caption>
+</image>
+</simpleviewerGallery>
