@@ -1,0 +1,30 @@
+// Place all the styles related to the home controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+body {
+	background-color: black;
+	color: #ccc;
+}
+
+.row {
+  //border: 1px solid red;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.all_content {
+  margin-left: -57px;
+}
+
+.container{
+  margin-top: -57px;
+  margin-left: 15px;
+}
+
+.standout {
+  color: white;
+  font-weight: bold;
+}
