@@ -4,6 +4,7 @@ class AdminMailer < ActionMailer::Base
   def invite_admin_email(admin, inviter)
     @admin = admin
     @inviter = inviter
+    debugger
     @url  = "#{root_url}invite_admins/#{admin.activation_token}/edit"
     mail(:to => admin.email,
          :subject => "#{@inviter.email} has invited you to be an admin on parallax-tripleephotography.com")

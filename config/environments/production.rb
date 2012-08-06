@@ -24,7 +24,7 @@ Parallax::Application.configure do
   # config.assets.manifest = YOUR_PATH
   
   # Todo: This will need to be changed before pushing to master and the real app location.
-  config.action_mailer.default_url_options = { :host => 'parallax.herokuapp.com' }
+  config.action_mailer.default_url_options = { :host => 'parallax-tripleephotography.herokuapp.com' }
 
 
   # Needed for using sendgrid on the Cedar stack.
@@ -34,7 +34,7 @@ Parallax::Application.configure do
     :authentication => :plain,
     :user_name      => ENV['SENDGRID_USERNAME'],
     :password       => ENV['SENDGRID_PASSWORD'],
-    :domain         => 'heroku.com'
+    :domain         => 'herokuapp.com'
   }
   ActionMailer::Base.delivery_method = :smtp
 
