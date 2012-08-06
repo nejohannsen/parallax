@@ -1,0 +1,4 @@
+.terms_content
+  = cms_page_content(:content, Cms::Page.find_by_slug('terms'))
+  = simple_form_for @user, :url => set_terms_and_conditions_path, :method => :post do |f|
+    = f.button :submit, :value => 'Accept'

@@ -1,6 +1,15 @@
 Parallax::Application.routes.draw do
   
   root :to => 'home#index'
+  
+  get "logout" => "sessions#destroy", :as => "logout"
+  get "login" => "sessions#new", :as => "login"
+  get "signup" => "users#new", :as => "signup"
+  resources :sessions
+  resources :admins
+  resources :invite_admins
+  resources :password_reset
+  resources :links
   # The priority is based upon order of creation:
   # first created -> highest priority.
 

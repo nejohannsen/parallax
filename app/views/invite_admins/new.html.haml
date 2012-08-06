@@ -1,0 +1,4 @@
+%h2 Invite an Admin
+= simple_form_for @admin, :url => invite_admins_path, :method => :post do |f|
+  = f.input :email
+  = f.submit

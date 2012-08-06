@@ -1,0 +1,12 @@
+#auth_wrapper
+  .rdfrs_auth_form
+    = simple_form_for @admin, :url => invite_admin_path(@admin), :method => :put do |f| 
+      - if @admin.errors.any?
+        %ul
+          - @admin.errors.full_messages.each do |msg|
+            %li= msg  
+      = "Creating Account for: #{@admin.email}"
+      = f.input :password, :class => 'pass_field', :placeholder => 'Password', :id => 'password'
+      = f.input :password_confirmation, :class => 'pass_field', :placeholder => 'Password Confirmation', :id => 'password_confirmation'
+      = f.input :activation_token, :value => @admin.activation_token, :as => :hidden
+      = f.submit 'Create Account!', :class => 'button'

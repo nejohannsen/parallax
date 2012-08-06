@@ -5,6 +5,8 @@
 body {
 	background-color: black;
 	color: #ccc;
+	width: 100pct;
+	//border: 1px solid red;
 }
 
 .row {
@@ -13,18 +15,59 @@ body {
 
 ul {
   list-style-type: none;
+  overflow: hidden;
+  //border-top: 1px solid gray;
+  //border-bottom: 1px solid gray;
+}
+
+li {
+  //float: left;
+
+}
+
+li.text {
+  color: white;
+  font-weight: bold;
+  font-size: larger;
+  margin: 17px;
+}
+
+li a, li a:hover, li a:visited {
+  color: white;
 }
 
 .all_content {
-  margin-left: -57px;
+  border: 1px solid red;
 }
 
 .container{
-  margin-top: -57px;
-  margin-left: 15px;
+  //border: 1px solid red;
+  margin-left: 0px;
+  margin-top: -50px;
+  overflow: hidden;
+  //width: 635px;
 }
 
 .standout {
   color: white;
   font-weight: bold;
 }
+
+.content {
+  width: 400px;
+  //border: 1px solid green;
+}
+
+.nav {
+  margin-left: -47px;
+}
+
+.link_title a, .link_title a:hover, .link_title a:visited {
+  color: white;
+  font-weight: bold;
+  font-size: larger;
+}
+.link_url a, .link_url a:hover, .link_url a:visited {
+  color: gray;
+}
+

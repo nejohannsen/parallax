@@ -6,6 +6,11 @@ gem 'rails', '3.2.3'
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
 gem 'pg'
+gem "sorcery"
+gem "cancan"
+gem 'haml'
+gem "paperclip", "~> 3.0"
+gem 'simple_form'
 
 
 # Gems used only for assets and not required
