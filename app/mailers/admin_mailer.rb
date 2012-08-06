@@ -1,12 +1,12 @@
 class AdminMailer < ActionMailer::Base
-  default from: "donotreply@nbga.net"
+  default from: "donotreply@parallax-tripleephotography"
   
   def invite_admin_email(admin, inviter)
     @admin = admin
     @inviter = inviter
     @url  = "#{root_url}invite_admins/#{admin.activation_token}/edit"
     mail(:to => admin.email,
-         :subject => "#{@inviter.email} has invited you to be an admin on NBGA.com")
+         :subject => "#{@inviter.email} has invited you to be an admin on parallax-tripleephotography.com")
   end
   
   def reset_password_email(admin)
