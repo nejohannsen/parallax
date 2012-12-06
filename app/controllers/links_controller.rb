@@ -23,7 +23,7 @@ class LinksController < ApplicationController
   end
   
   def update
-    @link = Link.find(params[:link])
+    @link = Link.find(params[:id])
     
     if @link.update_attributes(params[:link])
       redirect_to links_path, :notice => "Link Updated Succesfully"
