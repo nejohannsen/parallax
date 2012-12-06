@@ -1,0 +1,6 @@
+= link_to "Create New Book", new_book_path if current_user
+%br
+- @books.each do |book|
+  .book_banner= link_to image_tag( book.cover.url(:thumb)), book_path(book)
+  .book_title= link_to book.title, book_path(book)
+  %br

@@ -27,7 +27,7 @@
           %ul
             %li= link_to image_tag('gallery.jpg'), '#'
             %li= link_to image_tag('models.jpg'), '#'
-            %li= link_to image_tag('books.jpg'), '#'
+            %li= link_to image_tag('books.jpg'), books_path
             %li= link_to image_tag('links.jpg'), links_path
             %li.text= link_to( "Logout", logout_path) if current_user
       .span9.content

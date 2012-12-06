@@ -11,7 +11,7 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20120806044613) do
+ActiveRecord::Schema.define(:version => 20121206023239) do
 
   create_table "admins", :force => true do |t|
     t.string   "email",                           :null => false
@@ -32,6 +32,20 @@ ActiveRecord::Schema.define(:version => 20120806044613) do
   add_index "admins", ["activation_token"], :name => "index_admins_on_activation_token"
   add_index "admins", ["remember_me_token"], :name => "index_admins_on_remember_me_token"
   add_index "admins", ["reset_password_token"], :name => "index_admins_on_reset_password_token"
+
+  create_table "books", :force => true do |t|
+    t.string   "title"
+    t.string   "summary"
+    t.text     "description"
+    t.string   "publisher_url"
+    t.string   "publisher_text"
+    t.string   "cover_file_name"
+    t.string   "cover_image_content_type"
+    t.integer  "cover_file_size"
+    t.datetime "cover_updated_at"
+    t.datetime "created_at",               :null => false
+    t.datetime "updated_at",               :null => false
+  end
 
   create_table "links", :force => true do |t|
     t.string   "title"

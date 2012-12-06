@@ -1,0 +1,8 @@
+.show_book
+  .book_title= @book.title if @book.title.present?
+  .book_summary= @book.summary if @book.summary.present?
+  .book_image= image_tag( @book.cover.url)
+  .book_description= @book.description if @book.description.present?
+  - if @book.publisher_text.present? && @book.publisher_url.present?
+    .book_publisher= link_to( @book.publisher_text, @book.publisher_url)
+  

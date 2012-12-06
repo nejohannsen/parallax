@@ -10,6 +10,7 @@ Parallax::Application.routes.draw do
   resources :invite_admins
   resources :password_reset
   resources :links
+  resources :books
   # The priority is based upon order of creation:
   # first created -> highest priority.
 

@@ -1,0 +1,9 @@
+.book_edit_form
+  = simple_form_for @book  do |f|
+    = f.input :title, :wrapper_html => { :class => 'input_div' }, :input_html => { :class => 'input_style' }
+    = f.input :summary, :wrapper_html => { :class => 'input_div' }, :input_html => { :class => 'input_style' }
+    = f.input :description, :wrapper_html => { :class => 'input_div' }, :input_html => { :class => 'input_style' }
+    = f.input :publisher_text, :wrapper_html => { :class => 'input_div' }, :input_html => { :class => 'input_style' }
+    = f.input :publisher_url, :wrapper_html => { :class => 'input_div' }, :input_html => { :class => 'input_style' }
+    = f.file_field :cover, :wrapper_html => { :class => 'input_div' }, :input_html => { :class => 'input_style' }
+    = f.button :submit
