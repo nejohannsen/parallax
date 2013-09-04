@@ -12,6 +12,7 @@ gem 'haml'
 gem "paperclip", "~> 3.0"
 gem 'simple_form'
 gem "twitter-bootstrap-rails"
+gem 'bootstrap-wysihtml5-rails'
 
 
 # Gems used only for assets and not required

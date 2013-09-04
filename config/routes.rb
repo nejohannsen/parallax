@@ -11,6 +11,7 @@ Parallax::Application.routes.draw do
   resources :password_reset
   resources :links
   resources :books
+  resources :photos
   # The priority is based upon order of creation:
   # first created -> highest priority.
 

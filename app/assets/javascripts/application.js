@@ -13,4 +13,7 @@
 //= require jquery
 //= require jquery_ujs
 //= require twitter/bootstrap
+//= require bootstrap-wysihtml5
+//= require jquery            # Not included
+//= require bootstrap-button  # Not included
 //= require_tree .

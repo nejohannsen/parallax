@@ -1,9 +1,13 @@
 .book_edit_form
   = simple_form_for @book  do |f|
-    = f.input :title, :wrapper_html => { :class => 'input_div' }, :input_html => { :class => 'input_style' }
-    = f.input :summary, :wrapper_html => { :class => 'input_div' }, :input_html => { :class => 'input_style' }
-    = f.input :description, :wrapper_html => { :class => 'input_div' }, :input_html => { :class => 'input_style' }
-    = f.input :publisher_text, :wrapper_html => { :class => 'input_div' }, :input_html => { :class => 'input_style' }
-    = f.input :publisher_url, :wrapper_html => { :class => 'input_div' }, :input_html => { :class => 'input_style' }
-    = f.file_field :cover, :wrapper_html => { :class => 'input_div' }, :input_html => { :class => 'input_style' }
+    = f.input :title
+    = f.input :summary
+    = f.input :description, :input_html => { :class => 'wysihtml5' }
+    :javascript
+      $('.wysihtml5').each(function(i, elem) {
+      $(elem).wysihtml5();
+      });
+    = f.input :publisher_text
+    = f.input :publisher_url
+    = f.file_field :cover
     = f.button :submit
