@@ -1,0 +1,6 @@
+.show_photo
+  .photo_title= @photo.title if @photo.title.present?
+  .photo_image= image_tag( @photo.image.url(:thumb))
+  .photo_image= image_tag( @photo.image.url)
+
+  

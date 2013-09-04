@@ -1,0 +1,15 @@
+.show_book {
+	width: 350px;
+}
+
+.book_title {
+	font-size: larger;
+	font-weight: 700;
+	color: gray;
+	margin-bottom: 7px;
+}
+
+.book_summary {
+	text-align: center;
+	margin-bottom: 7px;
+}
